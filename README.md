@@ -7,3 +7,5 @@
 I've rewritten the code in VB.NET just for educational purposes and **the above warnings are not a joke!**
 
 # rootabx has written the original source code of the malware which is available [here](https://github.com/Gork3m/MrsMajor-3.0/).
+
+Note: some fragments of the source code have been modified due to better understand the code but the result do the exactly the same thing.
