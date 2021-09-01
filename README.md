@@ -2,4 +2,8 @@
 
 # This source is for antivirus developers, or people into malware analysing. 
 
+# Do not try to build your own mrsmajor - that won't work though. The code is already modified in a way so it will not work when its built into an exe.
+
 I've rewritten the code in VB.NET just for educational purposes and **the above warnings are not a joke!**
+
+# rootabx has written the original source code of the malware.
