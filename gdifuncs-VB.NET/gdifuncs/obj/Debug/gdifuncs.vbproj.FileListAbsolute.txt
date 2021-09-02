@@ -1,0 +1,12 @@
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\bin\Debug\gdifuncs.exe.config
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\bin\Debug\gdifuncs.exe
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\bin\Debug\gdifuncs.pdb
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.vbprojResolveAssemblyReference.cache
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.MainForm.resources
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.majorsgui.resources
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.pinksavage.resources
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.vbproj.GenerateResource.Cache
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.exe
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.pdb
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.Resources.resources
+c:\users\acast\documents\visual studio 2015\Projects\gdifuncs-VB.NET\gdifuncs\obj\Debug\gdifuncs.protection64.resources
