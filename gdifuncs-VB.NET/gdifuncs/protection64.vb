@@ -86,7 +86,8 @@ Public Class protection64
         End Try
 
         Try
-            File.Create("C:\windows\WinAttr.gci")
+            Dim fs As FileStream = File.Create("C:\windows\WinAttr.gci")
+            fs.Close()
         Catch
         End Try
 
