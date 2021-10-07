@@ -8,4 +8,4 @@ I've rewritten the code in VB.NET just for educational purposes and **the above 
 
 # rootabx has written the original source code of the malware which is available [here](https://github.com/Gork3m/MrsMajor-3.0/).
 
-**Note**: some fragments of the source code have been modified due to better understand the code but the result do exactly the same thing.
+**Note**: some fragments of the source code may be modified due to better understand the code/optimization/bug fixes/etc but the result do exactly the same thing.
