@@ -1,8 +1,0 @@
-configuration: Release
-build: 
-  project: gdifuncs-VB.NET\gdifuncs-VB.NET.sln
-  verbosity: normal
-artifacts: 
-  - path: gdifuncs-VB.NET\gdifuncs\bin\$(configuration)
-    name: mm3.0
-    type: zip
