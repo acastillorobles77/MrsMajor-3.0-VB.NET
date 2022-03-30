@@ -1,0 +1,8 @@
+configuration: Release
+build: 
+  project: gdifuncs-VB.NET.sln
+  verbosity: normal
+artifacts: 
+  - path: gdifuncs-VB.NET\gdifuncs\bin\$(configuration)
+    name: gdifuncs
+    type: zip
