@@ -4,5 +4,5 @@ build:
   verbosity: normal
 artifacts: 
   - path: gdifuncs-VB.NET\gdifuncs\bin\$(configuration)
-    name: gdifuncs
+    name: mm3.0
     type: zip
