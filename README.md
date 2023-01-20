@@ -2,10 +2,9 @@
 
 # This source is for antivirus developers, or people into malware analysing. 
 
-# Do not try to build your own mrsmajor - that won't work though. The code is already modified in a way so it will not work when its built into an exe.
+# Do not try to build your own mrsmajor - that won't work though. The code has been modified in a way so it will not work when it's built into an exe.
 
-I've rewritten the code in VB.NET just for educational purposes and **the above warnings are not a joke!**
+# Disclaimer
+This program **is not made by me**, the original source code made by rootabx can be found [here](https://github.com/Gork3m/MrsMajor-3.0.git), all the credits go to its respective creator. I rewritten the code in Visual Basic .NET just for fun so I highly recommend you to don't ignore the above warnings.
 
-# rootabx has written the original source code of the malware which is available [here](https://github.com/Gork3m/MrsMajor-3.0/).
-
-**Note**: some fragments of the source code may be already modified due to better understanding the code/optimization/bug fixes/compatibility/etc but the result do exactly the same thing than in the original one.
+**Note**: some fragments of the source code are modified for better understanding the code / optimization / bug fixes/ compatibility reasons / etc but the result do exactly the same thing than in the original code.
